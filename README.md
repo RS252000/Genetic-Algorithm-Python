@@ -1,3 +1,5 @@
-# Genetic Algortihm 
+# Computational Intelligence for Optimization Course
 
-# Task: Study on the classic problem called the Stigler diet:
+  **Task**: Study on the classic problem, the Stigler diet.
+  
+  **Tools**: Scikit-Learn
